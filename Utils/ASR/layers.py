@@ -346,7 +346,10 @@ class MFCC(nn.Module):
             unsqueezed = False
         # (channel, n_mels, time).tranpose(...) dot (n_mels, n_mfcc)
         # -> (channel, time, n_mfcc).tranpose(...)
+        # print(f"MEL SHAPE: {mel_specgram.transpose(1, 2).shape}")
+        # print(f"DCT_Mat Shape: {self.dct_mat.shape}")
         mfcc = torch.matmul(mel_specgram.transpose(1, 2), self.dct_mat).transpose(1, 2)
+        # print(f"MFCC Shape: {mfcc.shape}")
 
         # unpack batch
         if unsqueezed:

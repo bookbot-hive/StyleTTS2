@@ -699,7 +699,18 @@ def load_checkpoint(model, optimizer, path, load_only_params=True, ignore_module
     for key in model:
         if key in params and key not in ignore_modules:
             print('%s loaded' % key)
-            model[key].load_state_dict(params[key], strict=False)
+            try:
+                model[key].load_state_dict(params[key], strict=True)
+            except RuntimeError:
+                # default code's first stage weights don't have `module.` prefix in front of the state dict
+                from collections import OrderedDict
+                new_state_dict = OrderedDict()
+                state_dict = params[key]
+                for k, v in state_dict.items():
+                    if not k.startswith("module."):
+                        new_state_dict["module." + k] = v
+                model[key].load_state_dict(new_state_dict, strict=True)
+
     _ = [model[key].eval() for key in model]
     
     if not load_only_params:
