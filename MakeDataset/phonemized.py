@@ -60,15 +60,7 @@ for i in tqdm(range(len(filenames))):
         (filenames[i], f"{filenames[i]}|{phonemized[i].strip()}|{speakers[i]}\n")
     )
 
-
 phonemized_lines.sort(key=lambda x: int(x[0].split("_")[1].split(".")[0]))
-# def custom_sort_key(filename):
-#     parts = filename.split("_")
-#     prefix = parts[0]
-#     number = int(parts[1].split(".")[0])
-#     return (prefix, number)
-
-# phonemized_lines.sort(key=lambda x: custom_sort_key(x[0]))
 
 # Split training/validation set
 train_lines = phonemized_lines[: int(len(phonemized_lines) * 0.9)]

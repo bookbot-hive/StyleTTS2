@@ -277,7 +277,7 @@ class Generator(torch.nn.Module):
         resblock = AdaINResBlock1
 
         self.m_source = SourceModuleHnNSF(
-                    sampling_rate=24000,
+                    sampling_rate=48000,
                     upsample_scale=np.prod(upsample_rates),
                     harmonic_num=8, voiced_threshod=10)
 

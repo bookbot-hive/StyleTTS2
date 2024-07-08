@@ -42,7 +42,7 @@ class FilePathDataset(torch.utils.data.Dataset):
         self,
         data_list,
         root_path,
-        sr=24000,
+        sr=48000,
         data_augmentation=False,
         validation=False,
         OOD_data="Data/OOD_texts.txt",
@@ -120,8 +120,8 @@ class FilePathDataset(torch.utils.data.Dataset):
         wave, sr = sf.read(osp.join(self.root_path, wave_path))
         if wave.shape[-1] == 2:
             wave = wave[:, 0].squeeze()
-        if sr != 24000:
-            wave = librosa.resample(wave, orig_sr=sr, target_sr=24000)
+        if sr != self.sr:
+            wave = librosa.resample(wave, orig_sr=sr, target_sr=self.sr)
 
         wave = np.concatenate([np.zeros([5000]), wave, np.zeros([5000])], axis=0)
 

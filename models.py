@@ -585,7 +585,7 @@ def load_F0_models(path):
     # load F0 model
 
     F0_model = JDCNet(num_class=1, seq_len=192)
-    params = torch.load(path, map_location='cpu')['net']
+    params = torch.load(path, map_location='cpu')['model']
     F0_model.load_state_dict(params)
     _ = F0_model.train()
     

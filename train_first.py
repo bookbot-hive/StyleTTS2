@@ -84,7 +84,7 @@ def main(config_path):
                                         min_length=min_length,
                                         batch_size=batch_size,
                                         num_workers=2,
-                                        dataset_config={},
+                                        dataset_config=config.get("preprocess_params", {}),
                                         device=device)
 
     val_dataloader = build_dataloader(val_list,
@@ -95,7 +95,7 @@ def main(config_path):
                                       validation=True,
                                       num_workers=0,
                                       device=device,
-                                      dataset_config={})
+                                      dataset_config=config.get("preprocess_params", {}))
     
     with accelerator.main_process_first():
         # load pretrained ASR model
