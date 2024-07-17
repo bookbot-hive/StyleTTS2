@@ -1,56 +1,56 @@
-en-UK-Thalia_77.wav|tˈɪm ɪz dˌuːɪŋ hɪz bˈɛst nˌɑːt tə lˈʊk æt θˈɪŋz .|1
-en-UK-Thalia_207.wav|pˈɑː sˈɛz ðɪs pˈɑːt ɪz ðə bˈɛst .|1
-en-UK-Thalia_143.wav|wiː dˈɪɡ dˌaʊn ɪnðə mˈʌd sˌoʊ ðæt wiː kæn ɹˈɛst ʌntˈɪl ðə ɹˈeɪn kˈʌmz .|1
-en-AU-Zak_140.wav|ðə dˈɑːlfɪnz sˈeɪ ðeɪ wʊd biː ɡlˈæd tə sˈiː ðə θɹˈiː pˈælz ˌɛni tˈaɪm .|2
-en-US-Madison_172.wav|juː kæn hæv ɐ ɡˈʊd tˈaɪm ˈiːvən wɛn ðɛɹ ɪz nˈʌθɪŋ tə dˈuː .|0
-en-AU-Zak_213.wav|ɪz ðɛɹ dˈɪfɹənt wˈeɪ ðæt hiː kæn ɡɹˈæb ðə kˈɑːd sˌoʊ ðæt hiː kæn mˌeɪk sˌʌm lˈʌntʃ ?|2
-en-US-Madison_118.wav|ðə wˈɔːɾɚ ðæt kˈʌmz ˈaʊt wɪl nˌɑːt hˈɜːt ˌʌs .|0
-en-US-Madison_198.wav|ðeɪ mˈʌst fˈaɪnd ɐ spˈɑːt wˌɛɹ ðeɪ kæn ɡˌoʊ θɹuː ðɛɹ bˈɪɡ tʃˈeɪndʒ .|0
-en-AU-Zak_326.wav|ʃiː wʌz ɡˌoʊɪŋ tə fˈaɪnd ˈaʊt .|2
-en-UK-Thalia_185.wav|ˈaɪ lˈaɪk tə tʃˈæt tə kˈɪdz ðæt ˈaɪ sˈiː ˌɔn maɪ wˈeɪ hˈoʊm fɔːɹ sˈʌpɚ .|1
-en-US-Madison_207.wav|pˈɑː sˈɛz ðɪs pˈɑːt ɪz ðə bˈɛst .|0
-en-UK-Thalia_83.wav|sˌʌm ʌvðə kˈɑːdz lˈʊk lˈaɪk ðeɪ wˈɔnt tə fˈaɪnd ˈaʊt wʌt ɪz ɡˌoʊɪŋ ˈɔn .|1
-en-UK-Thalia_80.wav|ðɛɹ mˈʌm wɪl tˈiːtʃ ðˌɛm wʌt ðeɪ nˈiːd tə lˈɪv .|1
-en-US-Madison_97.wav|hiː mˌaɪt nˌɑːt ɡɛt tə ðə stˈɑːɹz ɪnðə skˈaɪ .|0
-en-UK-Thalia_242.wav|wˌʌt wɪl ðə kˈæt wˈɔnt tə bˈæt ?|1
-en-UK-Thalia_155.wav|hiː mˈʌst stˈɪl fˈaɪnd ˈaʊt wʌt hɪz kˈæt lˈaɪks .|1
-en-UK-Thalia_343.wav|wiː kæn sˈiː wˈiːlz ˈɔːl ˈoʊvɚ .|1
-en-AU-Zak_10.wav|zˈɑːm mˌeɪks ɐ lˈɪɾəl pˈɛn ðæt hiː kæn hˈaʊz sˌʌm ɹˈæbɪts ˈɪn .|2
-en-AU-Zak_299.wav|wiː kæn fˈaɪnd pˈʌdəlz sˌoʊ ðæt wiː kæn mˌeɪk ɐ bˈɪɡ splˈæʃ !|2
-en-UK-Thalia_29.wav|hiː lˈaɪks tə mˌeɪk θˈɪŋz ðæt kæn θˈɪŋk ˌɔn ðɛɹ ˈoʊn .|1
-en-AU-Zak_317.wav|dɹˈæɡən lˈɛts ˈaʊt ɐ flˈeɪm ðæt lˈaɪts ˌʌp ðə nˈaɪt !|2
-en-AU-Zak_139.wav|hiː mˈeɪ biː ˈɔf tə tˈaʊn tə ɡɛt hɪz mˈeɪl .|2
-en-AU-Zak_217.wav|kæn θˈɪŋz wɪð nˈoʊ wˈɪŋz biː ˌʌp ɪnðə skˈaɪ ?|2
-en-AU-Zak_189.wav|mˈeɪbiː hiː ɪz dʒˈʌst ˈaʊt tʊ ɛndʒˈɔɪ ðə mˈuːn ˌɔn ðɪs lˈʌvli nˈaɪt .|2
-en-US-Madison_104.wav|ʃiː θˈɪŋks ðˌɐɾɪt ɪz ɡˌoʊɪŋ təbi fˈʌn .|0
-en-US-Madison_59.wav|ɡɹˈiːnɚɹi ɪz wʌt ðeɪ lˈaɪk tə mˈʌntʃ ɔnðə bˈɛst .|0
-en-US-Madison_274.wav|hiː sˈɛd ðæt hiː wʌzðə bˈɛst wɪð ɐ sˈoːɹd ɪn ˈɔːl ðə lˈænd !|0
-en-AU-Zak_325.wav|ɪt ɹˈʌnz tə ɡɛt ðə kˈæt .|2
-en-US-Madison_80.wav|ðɛɹ mˈʌm wɪl tˈiːtʃ ðˌɛm wʌt ðeɪ nˈiːd tə lˈɪv .|0
-en-UK-Thalia_27.wav|ɪt fˈiːlz lˈaɪk ʃiː ɪz ɔnðə pˈæθ tə sˈʌmθɪŋ bˈɪɡ .|1
-en-AU-Zak_344.wav|hɪz pˈælz duːnˌɑːt lˈaɪk ɪt .|2
-en-AU-Zak_260.wav|ɪf ʃiː kænˈɑːt ɡɛt ɐ pˈɛt ðæt wɪl biː tˈuː tˈɔːl ɔːɹ stˈɪŋk tˈuː mʌtʃ ɔːɹ hˈʌɡ tˈuː tˈaɪt , wˌʌt kˈaɪnd ʌv pˈɛt ɪz ɪt ɡˌoʊɪŋ tə bˈiː ?|2
-en-UK-Thalia_323.wav|ˈæskt ɐ lˈɪɾəl bˈɔɪ .|1
-en-US-Madison_122.wav|ɪɾ ɪz ɡˌoʊɪŋ tə ɹˈeɪn ˌʌp wˌɛɹ ðeɪ lˈɪv .|0
-en-UK-Thalia_118.wav|ðə wˈɔːɾɚ ðæt kˈʌmz ˈaʊt wɪl nˌɑːt hˈɜːt ˌʌs .|1
-en-US-Madison_123.wav|ɹˈɛn lˈændz ɪn ɐ spˈɑːt ˌɔn mˈɑːɹz wˌɛɹ hiː kæn ɡɛt sˌʌm ɡɹˈeɪt ɹˈɑːks tə bɹˈɪŋ hˈoʊm wɪð hˌɪm .|0
-en-US-Madison_298.wav|ˈaɪ dʒˈʌst wˈɔnt tə hæv ɐ nˈæp !|0
-en-AU-Zak_202.wav|hˈɪɹ ɪz ɐ dʒˈɑːb ðæt ʃiː kæn dˈuː .|2
+en-AU-Zak_77.wav|tˈɪm ɪz dˌuːɪŋ hɪz bˈɛst nˌɒt tə lˈʊk at θˈɪŋz .|2
+en-AU-Zak_207.wav|pˈɑː sˈɛz ðɪs pˈɒt ɪz ðə bˈɛst .|2
+en-AU-Zak_143.wav|wiː dˈɪɡ dˌaʊn ɪnðə mˈʌd sˌəʊ ðat wiː kan ɹˈɛst ʌntˈɪl ðə ɹˈeɪn kˈʌmz .|2
+en-US-Madison_140.wav|ðə dˈɑːlfɪnz sˈɛd ðæt ðeɪ wʊd biː ɡlˈæd tə sˈiː ðə θɹˈiː pˈælz ˌɛni tˈaɪm .|0
+en-UK-Thalia_172.wav|juː kan hav ɐ ɡˈʊd tˈaɪm ˈiːvən wɛn ðeəɹ ɪz nˈʌθɪŋ tə dˈuː .|1
+en-US-Madison_213.wav|ɪz ðɛɹ dˈɪfɹənt wˈeɪ ðæt hiː kæn ɡɹˈæb ðə kˈɑːd sˌoʊ ðæt hiː kæn mˌeɪk sˌʌm lˈʌntʃ ?|0
+en-UK-Thalia_118.wav|ðə wˈɔːtə ðat kˈʌmz ˈaʊt wɪl nˌɒt hˈɜːt ˌʌs .|1
+en-UK-Thalia_198.wav|ðeɪ mˈʌst fˈaɪnd ɐ spˈɒt wˌeə ðeɪ kan ɡˌəʊ θɹuː ðeə bˈɪɡ tʃˈeɪndʒ .|1
+en-US-Madison_326.wav|ʃiː wʌz ɡˌoʊɪŋ tə fˈaɪnd ˈaʊt .|0
+en-AU-Zak_185.wav|ˈaɪ lˈaɪk tə tʃˈat tə kˈɪdz ðat ˈaɪ sˈiː ˌɒn maɪ wˈeɪ hˈəʊm fɔː sˈʌpə .|2
+en-UK-Thalia_207.wav|pˈɑː sˈɛz ðɪs pˈɒt ɪz ðə bˈɛst .|1
+en-AU-Zak_83.wav|sˌʌm ɒvðə kˈɒd lˈʊk lˈaɪk ðeɪ wˈɒnt tə fˈaɪnd ˈaʊt wɒt ɪz ɡˌəʊɪŋ ˈɒn .|2
+en-AU-Zak_80.wav|ðeə mˈʌm wɪl tˈiːtʃ ðˌɛm wɒt ðeɪ nˈiːd tə lˈɪv .|2
+en-UK-Thalia_97.wav|hiː mˌaɪt nˌɒt ɡɛt tə ðə stˈɑːz ɪnðə skˈaɪ .|1
+en-AU-Zak_242.wav|wˌɒt wɪl ðə kˈat wˈɒnt tə bˈat ?|2
+en-AU-Zak_155.wav|hiː mˈʌst stˈɪl fˈaɪnd ˈaʊt wɒt hɪz kˈat lˈaɪks .|2
+en-AU-Zak_343.wav|wiː kan sˈiː wˈiːlz ˈɔːl ˈəʊvə .|2
+en-US-Madison_10.wav|zˈɑːm mˌeɪks ɐ lˈɪɾəl pˈɛn ðæt hiː kæn hˈaʊz sˌʌm ɹˈæbɪts ˈɪn .|0
 en-US-Madison_299.wav|wiː kæn fˈaɪnd pˈʌdəlz sˌoʊ ðæt wiː kæn mˌeɪk ɐ bˈɪɡ splˈæʃ !|0
-en-AU-Zak_321.wav|ʃiː ʃˈaʊts wɪð lˈaʊd dʒˈɔɪ .|2
-en-UK-Thalia_107.wav|nˈoʊ wˈʌndɚ ʃiː fˈiːlz æt hˈoʊm ɪnðə wˈɔːɾɚ .|1
-en-AU-Zak_120.wav|bˈɜːdz kˈʌm tə sˈiː hˌaʊ maɪ wˈɪŋz wɪl ɡˈoʊ .|2
-en-UK-Thalia_302.wav|ˈaɪ hˈoʊp hiː nˈoʊz wˌɛɹ hiː ɪz ɡˈoʊɪŋ !|1
-en-AU-Zak_264.wav|kæn hiː mˌeɪk ɐ lˈɪŋk wɪð wˈʌn ʌv ðiːz ˈænɪməlz ?|2
-en-UK-Thalia_50.wav|ðə bˈɜːd θˈɪŋks ðæt ðeɪ wʊd ˈɔːl mˌeɪk ɡɹˈeɪt fɹˈɛndz .|1
-en-AU-Zak_158.wav|ðeɪ wɪl nˌɑːɾɐv ðə sˈeɪm fˈaɪnɚɹi ˌɔn ðɛɹ bˈɑːdiz wɛn ðeɪ kˈʌm ˈaʊt .|2
-en-US-Madison_214.wav|ɑːɹ ðɛɹ θˈɪŋz wɪð nˈoʊ wˈɪŋz ðæt kæn stˈɪl biː ˌʌp ɪnðə skˈaɪ ?|0
-en-AU-Zak_94.wav|wiː dˈoʊnt ɡˌoʊ tə ðə swˈɪŋz bɪkˈʌz wiː nˈoʊ ðæt hiː wɪl flˈɪŋ stˈʌf æɾ ˌʌs wɪð hɪz slˈɪŋʃɑːt .|2
-en-US-Madison_230.wav|ɪz ðɛɹ ɐ nˈuː wˈeɪ tə dˈuː ðˈɪs ?|0
-en-UK-Thalia_272.wav|ðɪs hˈoʊl ɪz mˈoːɹ lˈaɪk ɐ mˈaɪn ʃˈæft nˈaʊ !|1
-en-AU-Zak_26.wav|ɪɾ ɪz hˈɑːɹd tə fˈaɪnd fˈuːd wɛn ðə wˈɔːɾɚ dɹˈaɪz ˈʌp .|2
-en-UK-Thalia_327.wav|ðə ɹˈɑːd ɪz nˌɑːt ðə bˈɛst .|1
-en-UK-Thalia_70.wav|hiː dˈaɪvz dˌaʊn dˈiːp sˌoʊ ðæt hiː kæn biː sˈeɪf .|1
+en-AU-Zak_29.wav|hiː lˈaɪks tə mˌeɪk θˈɪŋz ðat kan θˈɪŋk ˌɒn ðeəɹ ˈəʊn .|2
+en-US-Madison_317.wav|dɹˈæɡən lˈɛts ˈaʊt ɐ flˈeɪm ðæt lˈaɪts ˌʌp ðə nˈaɪt !|0
+en-US-Madison_139.wav|hiː mˈeɪ biː ˈɔf tə tˈaʊn tə ɡɛt hɪz mˈeɪl .|0
+en-US-Madison_217.wav|kæn θˈɪŋz wɪð nˈoʊ wˈɪŋz biː ˌʌp ɪnðə skˈaɪ ?|0
+en-US-Madison_189.wav|mˈeɪbiː hiː ɪz dʒˈʌst ˈaʊt tʊ ɛndʒˈɔɪ ðə mˈuːn ˌɔn ðɪs lˈʌvli nˈaɪt .|0
+en-UK-Thalia_104.wav|ʃiː θˈɪŋks ðˌatɪt ɪz ɡˌəʊɪŋ təbi fˈʌn .|1
+en-UK-Thalia_59.wav|ɡɹˈiːnəɹi ɪz wɒt ðeɪ lˈaɪk tə mˈʌntʃ ɒnðə bˈɛst .|1
+en-UK-Thalia_274.wav|hiː sˈɛd ðat hiː wʌzðə bˈɛst wɪð ɐ sˈɔːd ɪn ˈɔːl ðə lˈand !|1
+en-US-Madison_325.wav|ɪt ɹˈʌnz tə ɡɛt ðə kˈæt .|0
+en-UK-Thalia_80.wav|ðeə mˈʌm wɪl tˈiːtʃ ðˌɛm wɒt ðeɪ nˈiːd tə lˈɪv .|1
+en-AU-Zak_27.wav|ɪt fˈiːlz lˈaɪk ʃiː ɪz ɒnðə pˈaθ tə sˈʌmθɪŋ bˈɪɡ .|2
+en-US-Madison_344.wav|hɪz pˈælz duːnˌɑːt lˈaɪk ɪt .|0
+en-US-Madison_260.wav|ɪf ʃiː kænˈɑːt ɡɛt ɐ pˈɛt ðæt wɪl biː tˈuː tˈɔːl ɔːɹ stˈɪŋk tˈuː mʌtʃ ɔːɹ hˈʌɡ tˈuː tˈaɪt , wˌʌt kˈaɪnd ʌv pˈɛt ɪz ɪt ɡˌoʊɪŋ tə bˈiː ?|0
+en-AU-Zak_323.wav|ˈaskt ɐ lˈɪtəl bˈɔɪ .|2
+en-UK-Thalia_122.wav|ɪt ɪz ɡˌəʊɪŋ tə ɹˈeɪn ˌʌp wˌeə ðeɪ lˈɪv .|1
+en-AU-Zak_118.wav|ðə wˈɔːtə ðat kˈʌmz ˈaʊt wɪl nˌɒt hˈɜːt ˌʌs .|2
+en-UK-Thalia_123.wav|ɹˈɛn lˈandz ɪn ɐ spˈɒt ˌɒn mˈɑːz wˌeə hiː kan ɡɛt sˌʌm ɡɹˈeɪt ɹˈɒks tə bɹˈɪŋ hˈəʊm wɪð hˌɪm .|1
+en-UK-Thalia_298.wav|ˈaɪ dʒˈʌst wˈɒnt tə hav ɐ nˈap !|1
+en-US-Madison_202.wav|hˈɪɹ ɪz ɐ dʒˈɑːb ðæt ʃiː kæn dˈuː .|0
+en-UK-Thalia_299.wav|wiː kan fˈaɪnd pˈʌdəlz sˌəʊ ðat wiː kan mˌeɪk ɐ bˈɪɡ splˈaʃ !|1
+en-US-Madison_321.wav|ʃiː ʃˈaʊts wɪð lˈaʊd dʒˈɔɪ .|0
+en-AU-Zak_107.wav|nˈəʊ wˈʌndə ʃiː fˈiːlz at hˈəʊm ɪnðə wˈɔːtə .|2
+en-US-Madison_120.wav|bˈɜːdz kˈʌm tə sˈiː hˌaʊ maɪ wˈɪŋz wɪl ɡˈoʊ .|0
+en-AU-Zak_302.wav|ˈaɪ hˈəʊp hiː nˈəʊz wˌeə hiː ɪz ɡˈəʊɪŋ !|2
+en-US-Madison_264.wav|kæn hiː mˌeɪk ɐ lˈɪŋk wɪð wˈʌn ʌv ðiːz ˈænɪməlz ?|0
+en-AU-Zak_50.wav|ðə bˈɜːd θˈɪŋks ðat ðeɪ wʊd ˈɔːl mˌeɪk ɡɹˈeɪt fɹˈɛndz .|2
+en-US-Madison_158.wav|ðeɪ wɪl nˌɑːɾɐv ðə sˈeɪm fˈaɪnɚɹi ˌɔn ðɛɹ bˈɑːdiz wɛn ðeɪ kˈʌm ˈaʊt .|0
+en-UK-Thalia_214.wav|ɑː ðeə θˈɪŋz wɪð nˈəʊ wˈɪŋz ðat kan stˈɪl biː ˌʌp ɪnðə skˈaɪ ?|1
+en-US-Madison_94.wav|wiː dˈoʊnt ɡˌoʊ tə ðə swˈɪŋz bɪkˈʌz wiː nˈoʊ ðæt hiː wɪl flˈɪŋ stˈʌf æɾ ˌʌs wɪð hɪz slˈɪŋʃɑːt .|0
+en-UK-Thalia_230.wav|ɪz ðeəɹ ɐ njˈuː wˈeɪ tə dˈuː ðˈɪs ?|1
+en-AU-Zak_272.wav|ðɪs hˈəʊl ɪz mˈɔː lˈaɪk ɐ mˈaɪn ʃˈaft nˈaʊ !|2
+en-US-Madison_26.wav|ɪɾ ɪz hˈɑːɹd tə fˈaɪnd fˈuːd wɛn ðə wˈɔːɾɚ dɹˈaɪz ˈʌp .|0
+en-AU-Zak_327.wav|ðə ɹˈɒd ɪz nˌɒt ðə bˈɛst .|2
+en-AU-Zak_70.wav|hiː dˈaɪvz dˌaʊn dˈiːp sˌəʊ ðat hiː kan biː sˈeɪf .|2
 id-ID-Althaf_342.wav|ˈoh , hˈari ˈini bˈukan ˈulaŋ tˈahun bˈon .|3
 id-ID-Althaf_363.wav|ˈada hˈɛwan lˈaɪn jaŋ bərlˈari di sˈampiŋ kəlˈintʃi .|3
 id-ID-Althaf_385.wav|anˈaja məlˈihat ˈanak kˈuda nˈil di dˈalam ˈaɪr .|3
@@ -106,7 +106,7 @@ sw-TZ-Victoria_Hadithi_4_20.wav|kwa msaˈada wa ˈm̩bwa wˈako mwˌaminˈifu , 
 sw-TZ-Victoria_Hadithi_9_23.wav|ɣˈafla , ˈm̩ti ˌuliˈanza kuŋˈaa na kutˈoa hazˈina ˌilijokˈuwa ˌimefˈitʃwa .|4
 sw-TZ-Victoria_Hadithi_5_21.wav|hˈapo , wˌalihitˈaɟi kˌutumˈia hekˈima jˈao .|4
 sw-TZ-Victoria_Hadithi_5_2.wav|katˌika kiɟˈiɟi hˈiki , kˌulikˈuwa na bˈinti mdˈoɡo ˌalijeˈitwa ʃwˈeta .|4
-sw-TZ-Victoria_Hadithi_5_13.wav|tˌunawˈeza kuˈanza safˈari jˈetu sˈasa hˈivi ?|4
+sw-TZ-Victoria_Hadithi_5_13.wav|tˌunawˈeza kuˈanza safˈari jˈetu sˈasa hˈivi ? .|4
 sw-TZ-Victoria_Hadithi_6_29.wav|twaˈibu ˌalikumbˈuka mˌazoˈezi ˌalijowˈahi kufˈaɲa kˌiɟiɟˈini na kwa kˌutumˈia mbˈinu ˌalijˌoɟifˈunza , ˌalipˈanda mlˈima kwa ˌuɟasˈiri mkˈubwa hˈuku bˈobi ˌakimlˈinda .|4
 sw-TZ-Victoria_Hadithi_6_25.wav|ˌaliˌaŋɡalˈia hˈuku na kˈule na kˌuɡundˈua kwˌamba kwa kˌutumˈia maɟˈani makˈubwa kˌama bˈoti ndˈoɡo , ˌaŋɡewˈeza kuvˈuka salˈama .|4
 sw-TZ-Victoria_Hadithi_1_22.wav|ɣˈafla , ˈm̩ti ˌuliˈanza kuŋˈaa na kutˈoa hazˈina ˌilijokˈuwa ˌimefˈitʃwa .|4
