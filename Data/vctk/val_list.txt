@@ -1,100 +1,100 @@
-/home/s44504/VCTK-Corpus/wav48/p274/p274_243.wav|aɪ wʌz ɹᵻlˈiːst ˈæftɚ sˈɪks dˈeɪz.|47
-/home/s44504/VCTK-Corpus/wav48/p241/p241_329.wav|aɪv nˌɑːt θˈɔːt ɐbˈaʊt ɪt. |15
-/home/s44504/VCTK-Corpus/wav48/p326/p326_127.wav|aɪv bˈiːʔn̩ hɜːɹ ɐ fjˈuː tˈaɪmz. |87
-/home/s44504/VCTK-Corpus/wav48/p297/p297_354.wav|ɡˈɪlbɚt wʌz nˌɑːt ɐmjˈuːzd. |66
-/home/s44504/VCTK-Corpus/wav48/p326/p326_349.wav|hiː wʌz ˌɔn ɐ hˈɔːɹs. |87
-/home/s44504/VCTK-Corpus/wav48/p280/p280_067.wav|hiː wʌz fˈeɪld baɪ hɪz hˈɛlθ ɐθˈɔːɹɪɾi. |53
-/home/s44504/VCTK-Corpus/wav48/p295/p295_251.wav|ɪɾ ɪz lˈaɪk ɐ θˈiəɾɚɹ ʌvðɪ ɐbsˈɜːd. |65
-/home/s44504/VCTK-Corpus/wav48/p264/p264_109.wav|ðə nˈuːzpeɪpɚz, baɪ kˈɑːntɹæst, hæd hˈɛld ðɛɹ vˈæljuː.|37
-/home/s44504/VCTK-Corpus/wav48/p257/p257_225.wav|aɪ θˈɪŋk hiːz ðə fˈeɪvɹɪt, nˈoʊ kwˈɛstʃən. |30
-/home/s44504/VCTK-Corpus/wav48/p243/p243_005.wav|ʃiː kæn skˈuːp ðiːz θˈɪŋz ˌɪntʊ θɹˈiː ɹˈɛd bˈæɡz, ænd wiː wɪl ɡˌoʊ mˈiːt hɜː wˈɛnzdeɪ æt ðə tɹˈeɪn stˈeɪʃən. |16
-/home/s44504/VCTK-Corpus/wav48/p243/p243_136.wav|ðˈɛɹfoːɹ, nˈoʊwˈʌn kæn wˈɜːk fˈʊl tˈaɪm ɪn ðiːz kˈʌmpəniz. |16
-/home/s44504/VCTK-Corpus/wav48/p236/p236_228.wav|fɹʌm ðˈɛɹ, ðeɪ kæn ɡˌoʊ ˈɛnɪwˌɛɹ. |10
-/home/s44504/VCTK-Corpus/wav48/p303/p303_171.wav|ɪts dʒˈʌst ðæt wiː sˈiː dˈɪfɹənt θˈɪŋz. |72
-/home/s44504/VCTK-Corpus/wav48/p273/p273_161.wav|aɪ dɪdnˌɑːt hæv ɐ bˈɛt ˌɔn maɪsˈɛlf. |46
-/home/s44504/VCTK-Corpus/wav48/p333/p333_333.wav|ðeɪ dˈɪd, tˈuː, bˌʌt ɪt dˈɪdnt mˈæɾɚ baɪ ðˈɛn. |90
-/home/s44504/VCTK-Corpus/wav48/p287/p287_246.wav|ˌɔn ɐ pɹˈæktɪkəl lˈɛvəl, ɪt wʊd biː dˈɪfɪkəlt. |60
-/home/s44504/VCTK-Corpus/wav48/p334/p334_261.wav|hiː wʌz sˈɛntənst tə sˈɛvən jˈɪɹz. |91
-/home/s44504/VCTK-Corpus/wav48/p347/p347_391.wav|ðɛɹwˌʌz nˈoʊ ˈɛnɚdʒi bᵻhˈaɪnd ɪt. |99
-/home/s44504/VCTK-Corpus/wav48/p245/p245_131.wav|hiː wɪl ɪmˈɜːdʒ æz ɐ wˈɜːld lˈiːdɚ. |18
-/home/s44504/VCTK-Corpus/wav48/p360/p360_313.wav|ðə ɹᵻspˈɑːns fɹʌm ˈɛvɹɪwˌʌn wʌz wˈʌndɚfəl. |101
-/home/s44504/VCTK-Corpus/wav48/p297/p297_387.wav|smˈɔːlɚ pˈɑːɹɾiz hæv ɹˈiːzən təbi plˈiːzd. |66
-/home/s44504/VCTK-Corpus/wav48/p374/p374_354.wav|klˈɑːɹk ɪz bˈæk ˌɔn tˈɑːp fˈɔːɹm. |106
-/home/s44504/VCTK-Corpus/wav48/p360/p360_062.wav|nˈoʊ pˈɜːsən wʌz tʃˈɑːɹdʒd. |101
-/home/s44504/VCTK-Corpus/wav48/p250/p250_120.wav|ɪt dˈɪdnt kˈʌm æz ˌɛni ɡɹˈeɪt sɚpɹˈaɪz. |23
-/home/s44504/VCTK-Corpus/wav48/p312/p312_414.wav|ðə pɹəpˈoʊzəlz hɐvbɪn tˈeɪkən ˌaʊɾəv kˈɑːntɛkst. |80
-/home/s44504/VCTK-Corpus/wav48/p335/p335_153.wav|ðɛɹwˌʌz ɐ lˈɑːt ʌv ɹᵻzˈɛntmənt. |92
-/home/s44504/VCTK-Corpus/wav48/p243/p243_002.wav|ˈæsk hɜː tə bɹˈɪŋ ðiːz θˈɪŋz wɪð hɜː fɹʌmðə stˈoːɹ. |16
-/home/s44504/VCTK-Corpus/wav48/p313/p313_109.wav|nˈʌθɪŋ ɪz bˌiːɪŋ ˈɔfɚd ɪn ɛkstʃˈeɪndʒ. |81
-/home/s44504/VCTK-Corpus/wav48/p243/p243_012.wav|θɹuːˈaʊt ðə sˈɛntʃɚɹiz pˈiːpəl hæv ɛksplˈeɪnd ðə ɹˈeɪnboʊ ɪn vˈɛɹiəs wˈeɪz. |16
-/home/s44504/VCTK-Corpus/wav48/p307/p307_118.wav|sˈɜːb fˈoːɹsᵻz ðˈɛn ˈoʊpənd fˈaɪɚɹ ɪn ðɛɹ dᵻɹˈɛkʃən. |76
-/home/s44504/VCTK-Corpus/wav48/p272/p272_030.wav|ðɛɹz ɐ stˈoːɹi, tˈuː. |45
-/home/s44504/VCTK-Corpus/wav48/p273/p273_016.wav|ðə nˈoːɹsɪmˌɛn kənsˈɪdɚd ðə ɹˈeɪnboʊ æz ɐ bɹˈɪdʒ ˌoʊvɚ wˌɪtʃ ðə ɡˈɑːdz pˈæst fɹʌm ˈɜːθ tə ðɛɹ hˈoʊm ɪnðə skˈaɪ. |46
-/home/s44504/VCTK-Corpus/wav48/p226/p226_117.wav|aɪ dˈoʊnt hæv mˈɛni fɹˈɛndz. |1
-/home/s44504/VCTK-Corpus/wav48/p255/p255_075.wav|tˈuː ɪzɹˈeɪli kˈæbᵻnət mˈɪnɪstɚz wɜːɹ ɪnðə bˈɪldɪŋ æt ðə tˈaɪm. |28
-/home/s44504/VCTK-Corpus/wav48/p313/p313_279.wav|wˌaɪ ʃˌʊd hiː ɡˌoʊ ˈɛnɪwˌɛɹ? |81
-/home/s44504/VCTK-Corpus/wav48/p276/p276_068.wav|bˈoʊθ bˈæŋks ɑːɹ hˈɛvili ɪnvˈɑːlvd ɪnðə skˈɑːɾɪʃ mˈɑːɹkɪt. |49
-/home/s44504/VCTK-Corpus/wav48/p248/p248_309.wav|hiː ðˈɛn ˈæskt ɪf hiː kˌʊdɐv hɜː sˈiːt ænd ʃiː ɹᵻfjˈuːzd. |21
-/home/s44504/VCTK-Corpus/wav48/p313/p313_326.wav|fɚɹə fjˈuː jˈɪɹz wiː hæd ɡˈʊd fˈʌn. |81
-/home/s44504/VCTK-Corpus/wav48/p340/p340_079.wav|hiː ɪz nˈaʊ bˈæk ɪn bɹˈɪtən. |95
-/home/s44504/VCTK-Corpus/wav48/p376/p376_040.wav|"""ɪt wʌz klˈɪɹ."" "|107
-/home/s44504/VCTK-Corpus/wav48/p227/p227_307.wav|sˈaɪz ɪz nˌɑːt ðɪ ˈɪʃuː. |2
-/home/s44504/VCTK-Corpus/wav48/p231/p231_074.wav|bˈoʊθ mˈɛn wɜːɹ ˌɔn wˈʌnjˈɪɹ kˈɑːntɹækts. |6
-/home/s44504/VCTK-Corpus/wav48/p313/p313_335.wav|aɪ dˈɪdnt wˈɔnt tə fˈɔːl ˈaʊt wɪð ˈɛnɪwˌʌn. |81
-/home/s44504/VCTK-Corpus/wav48/p362/p362_420.wav|ðeɪ wɜːɹ aʊtsˈaɪd ðə sˈɜːkəl. |103
-/home/s44504/VCTK-Corpus/wav48/p255/p255_307.wav|ðə ɹᵻpˈoːɹt wɪl ɡˌoʊ bᵻfˌoːɹ ðə skˈɑːɾɪʃ pˈɑːɹləmənt, pɹˈɑːbəbli ɪn ˈɜːli ˈɔːɾʌm. |28
-/home/s44504/VCTK-Corpus/wav48/p343/p343_252.wav|ʌv kˈoːɹs, ɪɾ ɪz ɐ tˈʌf ɐsˈaɪnmənt. |97
-/home/s44504/VCTK-Corpus/wav48/p312/p312_006.wav|wˌɛn ðə sˈʌnlaɪt stɹˈaɪks ɹˈeɪndɹɑːps ɪnðɪ ˈɛɹ, ðeɪ ˈækt æz ɐ pɹˈɪzəm ænd fˈɔːɹm ɐ ɹˈeɪnboʊ. |80
-/home/s44504/VCTK-Corpus/wav48/p232/p232_174.wav|aɪ ˈɔːlweɪz fˈɛlt ðeɪ plˈeɪd fɔːɹ mˌiː. |7
-/home/s44504/VCTK-Corpus/wav48/p323/p323_132.wav|ðɪs wɪl hæv nˈoʊ ɪfˈɛkt ɔnðə tʃˈæmpiənʃˌɪp. |86
-/home/s44504/VCTK-Corpus/wav48/p284/p284_187.wav|ɪts ɐ kəmˈɪʃən, ænd ɪts fɔːɹ wˈɜːk, ɐ jˈɪɹz wˈɜːk. |57
-/home/s44504/VCTK-Corpus/wav48/p271/p271_181.wav|æz wiː wˈɜːkt. |44
-/home/s44504/VCTK-Corpus/wav48/p225/p225_176.wav|tɹˈiːtmənt ɪz nˌɑːt ɐn ˈɪʃuː wɪð ðiːz pˈiːpəl. |0
-/home/s44504/VCTK-Corpus/wav48/p260/p260_285.wav|ðə kəndˈɪʃən ʌv ðɛɹ ɐdˈɑːpʃən wʌz ðæt ðeɪ ʃˌʊd biː kˈɛpt təɡˈɛðɚ. |33
-/home/s44504/VCTK-Corpus/wav48/p362/p362_252.wav|lˈɑːɹɹə ɪz vˈɛɹi, vˈɛɹi mˈʌtʃ ɐ ɡˈɜːl. |103
-/home/s44504/VCTK-Corpus/wav48/p313/p313_373.wav|fɹˈæŋk wˈɔːɹən ɪz ɐ ɡɹˈeɪt mˈæn. |81
-/home/s44504/VCTK-Corpus/wav48/p283/p283_304.wav|ɪt hɐz ðə pətˈɛnʃəl təbi ɐnˈʌðɚ nˈɔːɹθ sˈiː. |56
-/home/s44504/VCTK-Corpus/wav48/p313/p313_135.wav|aɪ mˈiːn ɪt hˈæpənz. |81
-/home/s44504/VCTK-Corpus/wav48/p263/p263_396.wav|hiː lˈeɪɾɚ bɪkˌeɪm ɐ ɹᵻspˈɛktᵻd hˈaɪ kˈoːɹt dʒˈʌdʒ. |36
-/home/s44504/VCTK-Corpus/wav48/p361/p361_225.wav|aɪ dˈoʊnt nˈoʊ ðə fˈʊl stˈoːɹi. |102
-/home/s44504/VCTK-Corpus/wav48/p262/p262_144.wav|mˈɪstɚ blˈɛɹ hæd dˈʌn wˈɛl. |35
-/home/s44504/VCTK-Corpus/wav48/p299/p299_148.wav|ðiːz mˈæɾɚz ɑːɹ nˈaʊ bᵻhˈaɪnd ˌʌs. |68
-/home/s44504/VCTK-Corpus/wav48/p273/p273_103.wav|wiː dɪzˈɜːv ɐ sɪɡnˈɪfɪkənt ɹˈaɪz. |46
-/home/s44504/VCTK-Corpus/wav48/p281/p281_019.wav|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ðˌɐɾɪt ɪz nˌɑːt ɹᵻflˈɛkʃən, bˌʌt ɹᵻfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz. |54
-/home/s44504/VCTK-Corpus/wav48/p259/p259_323.wav|wiː fˈiːl vˈɛɹi kˈʌmftəbəl ɪn ðɪs ˌɪntɚnˈæʃənəl ɛnvˈaɪɹənmənt.|32
-/home/s44504/VCTK-Corpus/wav48/p256/p256_267.wav|ðæts ðɪ ˈoʊnli θˈɪŋ aɪ wɪl sˈeɪ. |29
-/home/s44504/VCTK-Corpus/wav48/p286/p286_067.wav|ɪts nˌɑːt kˈʌvɚd baɪ ðɪ ɪnʃˈʊɹɹəns. |59
-/home/s44504/VCTK-Corpus/wav48/p307/p307_236.wav|aɪ kˈeɪm ˌʌp θɹuː ðə ɹˈæŋks. |76
-/home/s44504/VCTK-Corpus/wav48/p283/p283_031.wav|lˈæst nˈaɪt, mˈɪstɚ ɹˈɑːbɚtsən sˈɛd hiː wʌz dᵻlˈaɪɾᵻd. |56
-/home/s44504/VCTK-Corpus/wav48/p334/p334_062.wav|pɚhˈæps wiː ʃˌʊd dˈuː ðə sˈeɪm. |91
-/home/s44504/VCTK-Corpus/wav48/p264/p264_159.wav|spˈoːɹt ɪz ɡˈʊd fɔːɹ juː.|37
-/home/s44504/VCTK-Corpus/wav48/p311/p311_371.wav|ðɪs wʌzɐ tʃˈɪlɪŋ ˈɛkoʊ. |79
-/home/s44504/VCTK-Corpus/wav48/p265/p265_063.wav|ˌaɪtˈiː ʃˌʊdənt kˈʌm æz ɐ sɚpɹˈaɪz, bˌʌt ɪt dˈʌz. |38
-/home/s44504/VCTK-Corpus/wav48/p343/p343_208.wav|ðə dʒˈʌdʒᵻz wɪl ɡˈɪv ɐ ɹˈuːlɪŋ nˈɛkst wˈɛnzdeɪ. |97
-/home/s44504/VCTK-Corpus/wav48/p336/p336_151.wav|ðɪ ˈoʊnli ˈænsɚɹ ɪz ɐ pˈʌblɪk ˈɪŋkwɚɹi. |93
-/home/s44504/VCTK-Corpus/wav48/p240/p240_023.wav|ɪf ðə ɹˈɛd ʌvðə sˈɛkənd bˈoʊ fˈɔːlz əpˌɑːn ðə ɡɹˈiːn ʌvðə fˈɜːst, ðə ɹɪzˈʌlt ɪz tə ɡˈɪv ɐ bˈoʊ wɪð ɐn ɐbnˈoːɹməli wˈaɪd jˈɛloʊ bˈænd, sˈɪns ɹˈɛd ænd ɡɹˈiːn lˈaɪt wɛn mˈɪkst fˈɔːɹm jˈɛloʊ. |14
-/home/s44504/VCTK-Corpus/wav48/p374/p374_199.wav|ʃˈʊɹli, ɪf ˈɛnɪθˌɪŋ, ɪt wʊd biː ðɪ ˈʌðɚ wˈeɪ ɹˈaʊnd. |106
-/home/s44504/VCTK-Corpus/wav48/p330/p330_205.wav|ˈoʊnli ðə skˈeɪl ʌv tʃˈeɪndʒ dˈɪfɚd. |89
-/home/s44504/VCTK-Corpus/wav48/p303/p303_032.wav|ðə fˈiːlɪŋ ɪz mˈɑːɹvələs. |72
-/home/s44504/VCTK-Corpus/wav48/p276/p276_408.wav|ɪt hɐz təbi ɛnfˈoːɹst. |49
-/home/s44504/VCTK-Corpus/wav48/p316/p316_310.wav|tˈaɪm hɐz ɹˈʌn ˈaʊt fɔːɹ sˈædəm hˈʌsiːn. |83
-/home/s44504/VCTK-Corpus/wav48/p268/p268_161.wav|æθlˈɛɾɪks ɪz ˌɔn ɐ ɹˈoʊl ɪnðə kˈʌntɹi. |41
-/home/s44504/VCTK-Corpus/wav48/p257/p257_353.wav|ðɛɹ ɪz nˈoʊ sˈɪɡnɪtʃɚ. |30
-/home/s44504/VCTK-Corpus/wav48/p285/p285_021.wav|ðə dˈɪfɹəns ɪnðə ɹˈeɪnboʊ dᵻpˈɛndz kənsˈɪdɚɹəbli əpˌɑːn ðə sˈaɪz ʌvðə dɹˈɑːps, ænd ðə wˈɪtθ ʌvðə kˈʌlɚd bˈænd ˈɪŋkɹiːsᵻz æz ðə sˈaɪz ʌvðə dɹˈɑːps ˈɪŋkɹiːsᵻz. |58
-/home/s44504/VCTK-Corpus/wav48/p236/p236_462.wav|ɪɾ ɪz ɐ kɹˈaɪsɪs, wɪðˌaʊt ɐ dˈaʊt. |10
-/home/s44504/VCTK-Corpus/wav48/p238/p238_317.wav|hˈɪɹ ðə pˈɪktʃɚɹ ɪz bɹˈɔːdli stˈeɪbəl. |12
-/home/s44504/VCTK-Corpus/wav48/p236/p236_151.wav|ɪt wʌz baɪ ðə nˈʌmbɚz. |10
-/home/s44504/VCTK-Corpus/wav48/p274/p274_321.wav|wˌʌt ɑːɹ ðeɪ fɔːɹ ?|47
-/home/s44504/VCTK-Corpus/wav48/p311/p311_095.wav|ˈɛvɹɪwˌʌn ɪz wˈɜːkɪŋ təɡˌɛðɚ tə ɹᵻzˈɑːlv ðə pɹˈɑːbləmz. |79
-/home/s44504/VCTK-Corpus/wav48/p283/p283_312.wav|ɪt fˈɜːðɚɹ ɛkspɹˈɛst hɪz dᵻfˈaɪəns. |56
-/home/s44504/VCTK-Corpus/wav48/p293/p293_311.wav|fˈoːɹ hɐdbɪn bɹˈɔːt dˈaʊn. |63
-/home/s44504/VCTK-Corpus/wav48/p229/p229_341.wav|aɪm sˌoʊ plˈiːzd ðə ʃˈoʊ hɐz wˈʌn ɐ pɹˈaɪz. |4
-/home/s44504/VCTK-Corpus/wav48/p250/p250_226.wav|hˈuː wʌz ʃiː ? |23
-/home/s44504/VCTK-Corpus/wav48/p292/p292_352.wav|ðɛɹˌɑːɹ mˈoʊmənts ʌv sˈaɪləns. |62
-/home/s44504/VCTK-Corpus/wav48/p376/p376_134.wav|"""ɪt wʌz tˈɪpɪkəl."" "|107
-/home/s44504/VCTK-Corpus/wav48/p306/p306_217.wav|aɪ tˈoʊld juː, juː wɜː dˌuːɪŋ ɪɾ ˈɔːl ɹˈɔŋ. |75
-/home/s44504/VCTK-Corpus/wav48/p306/p306_267.wav|ˈæftɚ dˈeɪ wˈʌn bˈæk, hiː mˈeɪ biː ɹᵻvˈaɪzɪŋ ðæt əpˈɪniən ɔːlɹˈɛdi. |75
-/home/s44504/VCTK-Corpus/wav48/p343/p343_387.wav|bɪkˈʌz ɪts ɐ sˈiːkɹᵻt. |97
-/home/s44504/VCTK-Corpus/wav48/p272/p272_173.wav|ɪts tˈuː ˈɜːli tə sˈeɪ wˈɛðɚɹ ɐ pˈʌblɪk ˈɪŋkwɚɹi wʊd biː ɐpɹˈoʊpɹɪət. |45
-/home/s44504/VCTK-Corpus/wav48/p361/p361_147.wav|ɪt sˈiːmz tə hɐvbɪn ɐn ˈoʊn ɡˈoʊl. |102
-/home/s44504/VCTK-Corpus/wav48/p271/p271_038.wav|ˌɪndˈiːd, hiː dˈʌz. |44
+/home/s44504/VCTK-Corpus/wav32/p274/p274_243.wav|aɪ wʌz ɹᵻlˈiːst ˈæftɚ sˈɪks dˈeɪz.|47
+/home/s44504/VCTK-Corpus/wav32/p241/p241_329.wav|aɪv nˌɑːt θˈɔːt ɐbˈaʊt ɪt.|15
+/home/s44504/VCTK-Corpus/wav32/p326/p326_127.wav|aɪv bˈiːʔn̩ hɜːɹ ɐ fjˈuː tˈaɪmz.|87
+/home/s44504/VCTK-Corpus/wav32/p297/p297_354.wav|ɡˈɪlbɚt wʌz nˌɑːt ɐmjˈuːzd.|66
+/home/s44504/VCTK-Corpus/wav32/p326/p326_349.wav|hiː wʌz ˌɔn ɐ hˈɔːɹs.|87
+/home/s44504/VCTK-Corpus/wav32/p280/p280_067.wav|hiː wʌz fˈeɪld baɪ hɪz hˈɛlθ ɐθˈɔːɹɪɾi.|53
+/home/s44504/VCTK-Corpus/wav32/p295/p295_251.wav|ɪɾ ɪz lˈaɪk ɐ θˈiəɾɚɹ ʌvðɪ ɐbsˈɜːd.|65
+/home/s44504/VCTK-Corpus/wav32/p264/p264_109.wav|ðə nˈuːzpeɪpɚz, baɪ kˈɑːntɹæst, hæd hˈɛld ðɛɹ vˈæljuː.|37
+/home/s44504/VCTK-Corpus/wav32/p257/p257_225.wav|aɪ θˈɪŋk hiːz ðə fˈeɪvɹɪt, nˈoʊ kwˈɛstʃən.|30
+/home/s44504/VCTK-Corpus/wav32/p243/p243_005.wav|ʃiː kæn skˈuːp ðiːz θˈɪŋz ˌɪntʊ θɹˈiː ɹˈɛd bˈæɡz, ænd wiː wɪl ɡˌoʊ mˈiːt hɜː wˈɛnzdeɪ æt ðə tɹˈeɪn stˈeɪʃən.|16
+/home/s44504/VCTK-Corpus/wav32/p243/p243_136.wav|ðˈɛɹfoːɹ, nˈoʊwˈʌn kæn wˈɜːk fˈʊl tˈaɪm ɪn ðiːz kˈʌmpəniz.|16
+/home/s44504/VCTK-Corpus/wav32/p236/p236_228.wav|fɹʌm ðˈɛɹ, ðeɪ kæn ɡˌoʊ ˈɛnɪwˌɛɹ.|10
+/home/s44504/VCTK-Corpus/wav32/p303/p303_171.wav|ɪts dʒˈʌst ðæt wiː sˈiː dˈɪfɹənt θˈɪŋz.|72
+/home/s44504/VCTK-Corpus/wav32/p273/p273_161.wav|aɪ dɪdnˌɑːt hæv ɐ bˈɛt ˌɔn maɪsˈɛlf.|46
+/home/s44504/VCTK-Corpus/wav32/p333/p333_333.wav|ðeɪ dˈɪd, tˈuː, bˌʌt ɪt dˈɪdnt mˈæɾɚ baɪ ðˈɛn.|90
+/home/s44504/VCTK-Corpus/wav32/p287/p287_246.wav|ˌɔn ɐ pɹˈæktɪkəl lˈɛvəl, ɪt wʊd biː dˈɪfɪkəlt.|60
+/home/s44504/VCTK-Corpus/wav32/p334/p334_261.wav|hiː wʌz sˈɛntənst tə sˈɛvən jˈɪɹz.|91
+/home/s44504/VCTK-Corpus/wav32/p347/p347_391.wav|ðɛɹwˌʌz nˈoʊ ˈɛnɚdʒi bᵻhˈaɪnd ɪt.|99
+/home/s44504/VCTK-Corpus/wav32/p245/p245_131.wav|hiː wɪl ɪmˈɜːdʒ æz ɐ wˈɜːld lˈiːdɚ.|18
+/home/s44504/VCTK-Corpus/wav32/p360/p360_313.wav|ðə ɹᵻspˈɑːns fɹʌm ˈɛvɹɪwˌʌn wʌz wˈʌndɚfəl.|101
+/home/s44504/VCTK-Corpus/wav32/p297/p297_387.wav|smˈɔːlɚ pˈɑːɹɾiz hæv ɹˈiːzən təbi plˈiːzd.|66
+/home/s44504/VCTK-Corpus/wav32/p374/p374_354.wav|klˈɑːɹk ɪz bˈæk ˌɔn tˈɑːp fˈɔːɹm.|106
+/home/s44504/VCTK-Corpus/wav32/p360/p360_062.wav|nˈoʊ pˈɜːsən wʌz tʃˈɑːɹdʒd.|101
+/home/s44504/VCTK-Corpus/wav32/p250/p250_120.wav|ɪt dˈɪdnt kˈʌm æz ˌɛni ɡɹˈeɪt sɚpɹˈaɪz.|23
+/home/s44504/VCTK-Corpus/wav32/p312/p312_414.wav|ðə pɹəpˈoʊzəlz hɐvbɪn tˈeɪkən ˌaʊɾəv kˈɑːntɛkst.|80
+/home/s44504/VCTK-Corpus/wav32/p335/p335_153.wav|ðɛɹwˌʌz ɐ lˈɑːt ʌv ɹᵻzˈɛntmənt.|92
+/home/s44504/VCTK-Corpus/wav32/p243/p243_002.wav|ˈæsk hɜː tə bɹˈɪŋ ðiːz θˈɪŋz wɪð hɜː fɹʌmðə stˈoːɹ.|16
+/home/s44504/VCTK-Corpus/wav32/p313/p313_109.wav|nˈʌθɪŋ ɪz bˌiːɪŋ ˈɔfɚd ɪn ɛkstʃˈeɪndʒ.|81
+/home/s44504/VCTK-Corpus/wav32/p243/p243_012.wav|θɹuːˈaʊt ðə sˈɛntʃɚɹiz pˈiːpəl hæv ɛksplˈeɪnd ðə ɹˈeɪnboʊ ɪn vˈɛɹiəs wˈeɪz.|16
+/home/s44504/VCTK-Corpus/wav32/p307/p307_118.wav|sˈɜːb fˈoːɹsᵻz ðˈɛn ˈoʊpənd fˈaɪɚɹ ɪn ðɛɹ dᵻɹˈɛkʃən.|76
+/home/s44504/VCTK-Corpus/wav32/p272/p272_030.wav|ðɛɹz ɐ stˈoːɹi, tˈuː.|45
+/home/s44504/VCTK-Corpus/wav32/p273/p273_016.wav|ðə nˈoːɹsɪmˌɛn kənsˈɪdɚd ðə ɹˈeɪnboʊ æz ɐ bɹˈɪdʒ ˌoʊvɚ wˌɪtʃ ðə ɡˈɑːdz pˈæst fɹʌm ˈɜːθ tə ðɛɹ hˈoʊm ɪnðə skˈaɪ.|46
+/home/s44504/VCTK-Corpus/wav32/p226/p226_117.wav|aɪ dˈoʊnt hæv mˈɛni fɹˈɛndz.|1
+/home/s44504/VCTK-Corpus/wav32/p255/p255_075.wav|tˈuː ɪzɹˈeɪli kˈæbᵻnət mˈɪnɪstɚz wɜːɹ ɪnðə bˈɪldɪŋ æt ðə tˈaɪm.|28
+/home/s44504/VCTK-Corpus/wav32/p313/p313_279.wav|wˌaɪ ʃˌʊd hiː ɡˌoʊ ˈɛnɪwˌɛɹ?|81
+/home/s44504/VCTK-Corpus/wav32/p276/p276_068.wav|bˈoʊθ bˈæŋks ɑːɹ hˈɛvili ɪnvˈɑːlvd ɪnðə skˈɑːɾɪʃ mˈɑːɹkɪt.|49
+/home/s44504/VCTK-Corpus/wav32/p248/p248_309.wav|hiː ðˈɛn ˈæskt ɪf hiː kˌʊdɐv hɜː sˈiːt ænd ʃiː ɹᵻfjˈuːzd.|21
+/home/s44504/VCTK-Corpus/wav32/p313/p313_326.wav|fɚɹə fjˈuː jˈɪɹz wiː hæd ɡˈʊd fˈʌn.|81
+/home/s44504/VCTK-Corpus/wav32/p340/p340_079.wav|hiː ɪz nˈaʊ bˈæk ɪn bɹˈɪtən.|95
+/home/s44504/VCTK-Corpus/wav32/p376/p376_040.wav|"""ɪt wʌz klˈɪɹ."""|107
+/home/s44504/VCTK-Corpus/wav32/p227/p227_307.wav|sˈaɪz ɪz nˌɑːt ðɪ ˈɪʃuː.|2
+/home/s44504/VCTK-Corpus/wav32/p231/p231_074.wav|bˈoʊθ mˈɛn wɜːɹ ˌɔn wˈʌnjˈɪɹ kˈɑːntɹækts.|6
+/home/s44504/VCTK-Corpus/wav32/p313/p313_335.wav|aɪ dˈɪdnt wˈɔnt tə fˈɔːl ˈaʊt wɪð ˈɛnɪwˌʌn.|81
+/home/s44504/VCTK-Corpus/wav32/p362/p362_420.wav|ðeɪ wɜːɹ aʊtsˈaɪd ðə sˈɜːkəl.|103
+/home/s44504/VCTK-Corpus/wav32/p255/p255_307.wav|ðə ɹᵻpˈoːɹt wɪl ɡˌoʊ bᵻfˌoːɹ ðə skˈɑːɾɪʃ pˈɑːɹləmənt, pɹˈɑːbəbli ɪn ˈɜːli ˈɔːɾʌm.|28
+/home/s44504/VCTK-Corpus/wav32/p343/p343_252.wav|ʌv kˈoːɹs, ɪɾ ɪz ɐ tˈʌf ɐsˈaɪnmənt.|97
+/home/s44504/VCTK-Corpus/wav32/p312/p312_006.wav|wˌɛn ðə sˈʌnlaɪt stɹˈaɪks ɹˈeɪndɹɑːps ɪnðɪ ˈɛɹ, ðeɪ ˈækt æz ɐ pɹˈɪzəm ænd fˈɔːɹm ɐ ɹˈeɪnboʊ.|80
+/home/s44504/VCTK-Corpus/wav32/p232/p232_174.wav|aɪ ˈɔːlweɪz fˈɛlt ðeɪ plˈeɪd fɔːɹ mˌiː.|7
+/home/s44504/VCTK-Corpus/wav32/p323/p323_132.wav|ðɪs wɪl hæv nˈoʊ ɪfˈɛkt ɔnðə tʃˈæmpiənʃˌɪp.|86
+/home/s44504/VCTK-Corpus/wav32/p284/p284_187.wav|ɪts ɐ kəmˈɪʃən, ænd ɪts fɔːɹ wˈɜːk, ɐ jˈɪɹz wˈɜːk.|57
+/home/s44504/VCTK-Corpus/wav32/p271/p271_181.wav|æz wiː wˈɜːkt.|44
+/home/s44504/VCTK-Corpus/wav32/p225/p225_176.wav|tɹˈiːtmənt ɪz nˌɑːt ɐn ˈɪʃuː wɪð ðiːz pˈiːpəl.|0
+/home/s44504/VCTK-Corpus/wav32/p260/p260_285.wav|ðə kəndˈɪʃən ʌv ðɛɹ ɐdˈɑːpʃən wʌz ðæt ðeɪ ʃˌʊd biː kˈɛpt təɡˈɛðɚ.|33
+/home/s44504/VCTK-Corpus/wav32/p362/p362_252.wav|lˈɑːɹɹə ɪz vˈɛɹi, vˈɛɹi mˈʌtʃ ɐ ɡˈɜːl.|103
+/home/s44504/VCTK-Corpus/wav32/p313/p313_373.wav|fɹˈæŋk wˈɔːɹən ɪz ɐ ɡɹˈeɪt mˈæn.|81
+/home/s44504/VCTK-Corpus/wav32/p283/p283_304.wav|ɪt hɐz ðə pətˈɛnʃəl təbi ɐnˈʌðɚ nˈɔːɹθ sˈiː.|56
+/home/s44504/VCTK-Corpus/wav32/p313/p313_135.wav|aɪ mˈiːn ɪt hˈæpənz.|81
+/home/s44504/VCTK-Corpus/wav32/p263/p263_396.wav|hiː lˈeɪɾɚ bɪkˌeɪm ɐ ɹᵻspˈɛktᵻd hˈaɪ kˈoːɹt dʒˈʌdʒ.|36
+/home/s44504/VCTK-Corpus/wav32/p361/p361_225.wav|aɪ dˈoʊnt nˈoʊ ðə fˈʊl stˈoːɹi.|102
+/home/s44504/VCTK-Corpus/wav32/p262/p262_144.wav|mˈɪstɚ blˈɛɹ hæd dˈʌn wˈɛl.|35
+/home/s44504/VCTK-Corpus/wav32/p299/p299_148.wav|ðiːz mˈæɾɚz ɑːɹ nˈaʊ bᵻhˈaɪnd ˌʌs.|68
+/home/s44504/VCTK-Corpus/wav32/p273/p273_103.wav|wiː dɪzˈɜːv ɐ sɪɡnˈɪfɪkənt ɹˈaɪz.|46
+/home/s44504/VCTK-Corpus/wav32/p281/p281_019.wav|sˈɪns ðˈɛn fˈɪzɪsˌɪsts hæv fˈaʊnd ðˌɐɾɪt ɪz nˌɑːt ɹᵻflˈɛkʃən, bˌʌt ɹᵻfɹˈækʃən baɪ ðə ɹˈeɪndɹɑːps wˌɪtʃ kˈɔːzᵻz ðə ɹˈeɪnboʊz.|54
+/home/s44504/VCTK-Corpus/wav32/p259/p259_323.wav|wiː fˈiːl vˈɛɹi kˈʌmftəbəl ɪn ðɪs ˌɪntɚnˈæʃənəl ɛnvˈaɪɹənmənt.|32
+/home/s44504/VCTK-Corpus/wav32/p256/p256_267.wav|ðæts ðɪ ˈoʊnli θˈɪŋ aɪ wɪl sˈeɪ.|29
+/home/s44504/VCTK-Corpus/wav32/p286/p286_067.wav|ɪts nˌɑːt kˈʌvɚd baɪ ðɪ ɪnʃˈʊɹɹəns.|59
+/home/s44504/VCTK-Corpus/wav32/p307/p307_236.wav|aɪ kˈeɪm ˌʌp θɹuː ðə ɹˈæŋks.|76
+/home/s44504/VCTK-Corpus/wav32/p283/p283_031.wav|lˈæst nˈaɪt, mˈɪstɚ ɹˈɑːbɚtsən sˈɛd hiː wʌz dᵻlˈaɪɾᵻd.|56
+/home/s44504/VCTK-Corpus/wav32/p334/p334_062.wav|pɚhˈæps wiː ʃˌʊd dˈuː ðə sˈeɪm.|91
+/home/s44504/VCTK-Corpus/wav32/p264/p264_159.wav|spˈoːɹt ɪz ɡˈʊd fɔːɹ juː.|37
+/home/s44504/VCTK-Corpus/wav32/p311/p311_371.wav|ðɪs wʌzɐ tʃˈɪlɪŋ ˈɛkoʊ.|79
+/home/s44504/VCTK-Corpus/wav32/p265/p265_063.wav|ˌaɪtˈiː ʃˌʊdənt kˈʌm æz ɐ sɚpɹˈaɪz, bˌʌt ɪt dˈʌz.|38
+/home/s44504/VCTK-Corpus/wav32/p343/p343_208.wav|ðə dʒˈʌdʒᵻz wɪl ɡˈɪv ɐ ɹˈuːlɪŋ nˈɛkst wˈɛnzdeɪ.|97
+/home/s44504/VCTK-Corpus/wav32/p336/p336_151.wav|ðɪ ˈoʊnli ˈænsɚɹ ɪz ɐ pˈʌblɪk ˈɪŋkwɚɹi.|93
+/home/s44504/VCTK-Corpus/wav32/p240/p240_023.wav|ɪf ðə ɹˈɛd ʌvðə sˈɛkənd bˈoʊ fˈɔːlz əpˌɑːn ðə ɡɹˈiːn ʌvðə fˈɜːst, ðə ɹɪzˈʌlt ɪz tə ɡˈɪv ɐ bˈoʊ wɪð ɐn ɐbnˈoːɹməli wˈaɪd jˈɛloʊ bˈænd, sˈɪns ɹˈɛd ænd ɡɹˈiːn lˈaɪt wɛn mˈɪkst fˈɔːɹm jˈɛloʊ.|14
+/home/s44504/VCTK-Corpus/wav32/p374/p374_199.wav|ʃˈʊɹli, ɪf ˈɛnɪθˌɪŋ, ɪt wʊd biː ðɪ ˈʌðɚ wˈeɪ ɹˈaʊnd.|106
+/home/s44504/VCTK-Corpus/wav32/p330/p330_205.wav|ˈoʊnli ðə skˈeɪl ʌv tʃˈeɪndʒ dˈɪfɚd.|89
+/home/s44504/VCTK-Corpus/wav32/p303/p303_032.wav|ðə fˈiːlɪŋ ɪz mˈɑːɹvələs.|72
+/home/s44504/VCTK-Corpus/wav32/p276/p276_408.wav|ɪt hɐz təbi ɛnfˈoːɹst.|49
+/home/s44504/VCTK-Corpus/wav32/p316/p316_310.wav|tˈaɪm hɐz ɹˈʌn ˈaʊt fɔːɹ sˈædəm hˈʌsiːn.|83
+/home/s44504/VCTK-Corpus/wav32/p268/p268_161.wav|æθlˈɛɾɪks ɪz ˌɔn ɐ ɹˈoʊl ɪnðə kˈʌntɹi.|41
+/home/s44504/VCTK-Corpus/wav32/p257/p257_353.wav|ðɛɹ ɪz nˈoʊ sˈɪɡnɪtʃɚ.|30
+/home/s44504/VCTK-Corpus/wav32/p285/p285_021.wav|ðə dˈɪfɹəns ɪnðə ɹˈeɪnboʊ dᵻpˈɛndz kənsˈɪdɚɹəbli əpˌɑːn ðə sˈaɪz ʌvðə dɹˈɑːps, ænd ðə wˈɪtθ ʌvðə kˈʌlɚd bˈænd ˈɪŋkɹiːsᵻz æz ðə sˈaɪz ʌvðə dɹˈɑːps ˈɪŋkɹiːsᵻz.|58
+/home/s44504/VCTK-Corpus/wav32/p236/p236_462.wav|ɪɾ ɪz ɐ kɹˈaɪsɪs, wɪðˌaʊt ɐ dˈaʊt.|10
+/home/s44504/VCTK-Corpus/wav32/p238/p238_317.wav|hˈɪɹ ðə pˈɪktʃɚɹ ɪz bɹˈɔːdli stˈeɪbəl.|12
+/home/s44504/VCTK-Corpus/wav32/p236/p236_151.wav|ɪt wʌz baɪ ðə nˈʌmbɚz.|10
+/home/s44504/VCTK-Corpus/wav32/p274/p274_321.wav|wˌʌt ɑːɹ ðeɪ fɔːɹ ?|47
+/home/s44504/VCTK-Corpus/wav32/p311/p311_095.wav|ˈɛvɹɪwˌʌn ɪz wˈɜːkɪŋ təɡˌɛðɚ tə ɹᵻzˈɑːlv ðə pɹˈɑːbləmz.|79
+/home/s44504/VCTK-Corpus/wav32/p283/p283_312.wav|ɪt fˈɜːðɚɹ ɛkspɹˈɛst hɪz dᵻfˈaɪəns.|56
+/home/s44504/VCTK-Corpus/wav32/p293/p293_311.wav|fˈoːɹ hɐdbɪn bɹˈɔːt dˈaʊn.|63
+/home/s44504/VCTK-Corpus/wav32/p229/p229_341.wav|aɪm sˌoʊ plˈiːzd ðə ʃˈoʊ hɐz wˈʌn ɐ pɹˈaɪz.|4
+/home/s44504/VCTK-Corpus/wav32/p250/p250_226.wav|hˈuː wʌz ʃiː ?|23
+/home/s44504/VCTK-Corpus/wav32/p292/p292_352.wav|ðɛɹˌɑːɹ mˈoʊmənts ʌv sˈaɪləns.|62
+/home/s44504/VCTK-Corpus/wav32/p376/p376_134.wav|"""ɪt wʌz tˈɪpɪkəl."""|107
+/home/s44504/VCTK-Corpus/wav32/p306/p306_217.wav|aɪ tˈoʊld juː, juː wɜː dˌuːɪŋ ɪɾ ˈɔːl ɹˈɔŋ.|75
+/home/s44504/VCTK-Corpus/wav32/p306/p306_267.wav|ˈæftɚ dˈeɪ wˈʌn bˈæk, hiː mˈeɪ biː ɹᵻvˈaɪzɪŋ ðæt əpˈɪniən ɔːlɹˈɛdi.|75
+/home/s44504/VCTK-Corpus/wav32/p343/p343_387.wav|bɪkˈʌz ɪts ɐ sˈiːkɹᵻt.|97
+/home/s44504/VCTK-Corpus/wav32/p272/p272_173.wav|ɪts tˈuː ˈɜːli tə sˈeɪ wˈɛðɚɹ ɐ pˈʌblɪk ˈɪŋkwɚɹi wʊd biː ɐpɹˈoʊpɹɪət.|45
+/home/s44504/VCTK-Corpus/wav32/p361/p361_147.wav|ɪt sˈiːmz tə hɐvbɪn ɐn ˈoʊn ɡˈoʊl.|102
+/home/s44504/VCTK-Corpus/wav32/p271/p271_038.wav|ˌɪndˈiːd, hiː dˈʌz.|44

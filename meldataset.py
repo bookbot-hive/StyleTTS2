@@ -42,7 +42,7 @@ class FilePathDataset(torch.utils.data.Dataset):
         self,
         data_list,
         root_path,
-        sr=48000,
+        sr=32000,
         data_augmentation=False,
         validation=False,
         OOD_data="Data/OOD_texts.txt",
