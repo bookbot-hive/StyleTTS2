@@ -1,8 +1,8 @@
-log_dir: "Models/EN-Multi-ID-Althaf-SW-Victoria"
+log_dir: "Models/AU-Zak"
 save_freq: 5
 log_interval: 10
 device: "cuda"
-epochs: 20 # number of finetuning epoch (1 hour of data)
+epochs: 100 # number of finetuning epoch (1 hour of data)
 batch_size: 4
 max_len: 200 # maximum number of frames
 pretrained_model: "Models/LibriTTS/epochs_2nd_00020.pth"
@@ -15,9 +15,9 @@ ASR_path: "Utils/ASR/epoch_00080.pth"
 PLBERT_dir: 'Utils/PLBERT/'
 
 data_params:
-  train_data: "Data/EN-Multi-ID-Althaf-SW-Victoria/train_list.txt"
-  val_data: "Data/EN-Multi-ID-Althaf-SW-Victoria/val_list.txt"
-  root_path: "/home/s44504/en-Multi-ID-Althaf-SW-Victoria-filtered/wavs"
+  train_data: "Data/AU-Zak-emphasis/train_list.txt"
+  val_data: "Data/AU-Zak-emphasis/val_list.txt"
+  root_path: "/home/s44504/en-AU-Zak-emphasis/wavs"
   OOD_data: "Data/EN-Multi/OOD_texts.txt"
   min_length: 50 # sample until texts with this size are obtained for OOD texts
 
@@ -93,8 +93,8 @@ loss_params:
     lambda_sty: 1. # style reconstruction loss
     lambda_diff: 1. # score matching loss
     
-    diff_epoch: 4 # style diffusion starting epoch
-    joint_epoch: 12 # joint training starting epoch
+    diff_epoch: 20 # style diffusion starting epoch
+    joint_epoch: 60 # joint training starting epoch
 
 optimizer_params:
   lr: 0.0001 # general learning rate
