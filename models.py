@@ -602,7 +602,7 @@ def load_ASR_models(ASR_MODEL_PATH, ASR_MODEL_CONFIG):
     def _load_model(model_config, model_path):
         model = ASRCNN(**model_config)
         params = torch.load(model_path, map_location='cpu')['model']
-        for key in params:
+        for key in list(params.keys()):
             if 'module' in key:
                 new_key = key.replace('module.', '')
                 params[new_key] = params[key]
