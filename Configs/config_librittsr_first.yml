@@ -17,8 +17,8 @@ ASR_path: "/home/s44504/AuxiliaryASR/Checkpoint/epoch_00090.pth"
 PLBERT_dir: 'Utils/PLBERT/'
 
 data_params:
-  train_data: "Data/LibriTTS-R/train_list.txt"
-  val_data: "Data/LibriTTS-R/val_list.txt"
+  train_data: "Data/LibriTTS-R/train_list_filtered.txt"
+  val_data: "Data/LibriTTS-R/val_list_filtered.txt"
   root_path: ""
   OOD_data: "Data/LibriTTS-R/OOD_texts.txt"
   min_length: 50 # sample until texts with this size are obtained for OOD texts
