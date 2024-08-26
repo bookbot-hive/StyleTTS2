@@ -585,7 +585,11 @@ def load_F0_models(path):
     # load F0 model
 
     F0_model = JDCNet(num_class=1, seq_len=192)
-    params = torch.load(path, map_location='cpu')['net']
+    params = torch.load(path, map_location='cpu')
+    if 'net' in params:
+        params = params['net']
+    elif 'model' in params:
+        params = params['model']
     F0_model.load_state_dict(params)
     _ = F0_model.train()
     
@@ -602,6 +606,11 @@ def load_ASR_models(ASR_MODEL_PATH, ASR_MODEL_CONFIG):
     def _load_model(model_config, model_path):
         model = ASRCNN(**model_config)
         params = torch.load(model_path, map_location='cpu')['model']
+        for key in list(params.keys()):
+            if 'module' in key:
+                new_key = key.replace('module.', '')
+                params[new_key] = params[key]
+                del params[key]
         model.load_state_dict(params)
         return model
 
@@ -703,7 +712,7 @@ def load_checkpoint(model, optimizer, path, load_only_params=True, ignore_module
     _ = [model[key].eval() for key in model]
     
     if not load_only_params:
-        epoch = state["epoch"]
+        epoch = state["epoch"] + 1
         iters = state["iters"]
         optimizer.load_state_dict(state["optimizer"])
     else:
