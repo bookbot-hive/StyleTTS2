@@ -2,22 +2,22 @@ log_dir: "Models/EN-Libri-Multi-32kHz"
 save_freq: 5
 log_interval: 10
 device: "cuda"
-epochs: 50 # number of finetuning epoch (1 hour of data)
+epochs: 100 # number of finetuning epoch (1 hour of data)
 batch_size: 4
 max_len: 250 # maximum number of frames
 pretrained_model: "Models/LibriTTS/epochs_2nd_00020.pth"
 second_stage_load_pretrained: true # set to true if the pre-trained model is for 2nd stage
 load_only_params: true # set to true if do not want to load epoch numbers and optimizer parameters
 
-F0_path: "/home/s44504/PitchExtractor/Checkpoint/epoch_00040.pth"
-ASR_config: "/home/s44504/AuxiliaryASR/Checkpoint/config.yml"
-ASR_path: "/home/s44504/AuxiliaryASR/Checkpoint/epoch_00300.pth"
+F0_path: "/home/s44504/PitchExtractor/Checkpoint_VCTK_32/epoch_00040.pth"
+ASR_config: "/home/s44504/AuxiliaryASR/Checkpoint_VCTK_32/config.yml"
+ASR_path: "/home/s44504/AuxiliaryASR/Checkpoint_VCTK_32/epoch_00300.pth"
 PLBERT_dir: 'Utils/PLBERT/'
 
 data_params:
-  train_data: "Data/EN-Multi/train_list.txt"
-  val_data: "Data/EN-Multi/val_list.txt"
-  root_path: "/home/s44504/en-Multi-32kHz/wavs"
+  train_data: "Data/EN-Multi-32kHz-filtered/train_list.txt"
+  val_data: "Data/EN-Multi-32kHz-filtered/val_list.txt"
+  root_path: "/home/s44504/en-Multi-32kHz-filtered/wavs"
   OOD_data: "Data/EN-Multi/OOD_texts.txt"
   min_length: 50 # sample until texts with this size are obtained for OOD texts
 
@@ -93,8 +93,8 @@ loss_params:
     lambda_sty: 1. # style reconstruction loss
     lambda_diff: 1. # score matching loss
     
-    diff_epoch: 10 # style diffusion starting epoch
-    joint_epoch: 30 # joint training starting epoch
+    diff_epoch: 20 # style diffusion starting epoch
+    joint_epoch: 60 # joint training starting epoch
 
 optimizer_params:
   lr: 0.0001 # general learning rate
