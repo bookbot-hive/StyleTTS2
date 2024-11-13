@@ -1,0 +1,31 @@
+{
+    "speakers": [
+        {
+            "name": "en-US-Madison",
+            "reference_path": "Scripts/Audio/madison_althaf_question_reference.mp3",
+            "alpha": 0.7,
+            "beta": 1.0,
+            "embedding_scale": 2,
+            "speaker_id": "0",
+            "language": "en-us"
+        },
+        {
+            "name": "en-UK-Thalia",
+            "reference_path": "Scripts/Audio/thalia_althaf_question_reference.mp3",
+            "alpha": 0.7,
+            "beta": 0.9,
+            "embedding_scale": 2,
+            "speaker_id": "1",
+            "language": "en-gb"
+        },
+        {
+            "name": "en-AU-Zak",
+            "reference_path": "Scripts/Audio/zak_althaf_question_reference.mp3",
+            "alpha": 0.7,
+            "beta": 0.9,
+            "embedding_scale": 2,
+            "speaker_id": "2",
+            "language": "en-gb"
+        }
+    ]
+}

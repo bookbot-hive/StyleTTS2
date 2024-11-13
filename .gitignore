@@ -2,4 +2,5 @@ __pycache__
 Models/
 tmp/
 Demo/*/
+Demo/*
 Demo/*.zip
