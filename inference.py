@@ -140,6 +140,8 @@ class StyleTTS2Synthesizer:
             current_phonemizer = self.setup_phonemizer(language)
             ps = current_phonemizer.phonemize([text])[0]
             
+        print(f"Phonemes: {ps}")
+            
         tokens = self.textcleaner(ps)
         tokens.insert(0, 0)
         tokens = torch.LongTensor(tokens).to(self.device).unsqueeze(0)
@@ -173,6 +175,9 @@ class StyleTTS2Synthesizer:
 
             duration = torch.sigmoid(duration).sum(axis=-1)
             pred_dur = torch.round(duration.squeeze()).clamp(min=1)
+            
+            if not text[-1].isalnum():
+                pred_dur[-1] = 1
 
             pred_aln_trg = torch.zeros(input_lengths, int(pred_dur.sum().data))
             c_frame = 0

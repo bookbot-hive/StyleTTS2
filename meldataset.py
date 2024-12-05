@@ -47,6 +47,7 @@ class FilePathDataset(torch.utils.data.Dataset):
         validation=False,
         OOD_data="Data/OOD_texts.txt",
         min_length=50,
+        max_length=512,
         spect_params={},
     ):
 
@@ -62,6 +63,7 @@ class FilePathDataset(torch.utils.data.Dataset):
         self.data_augmentation = data_augmentation and (not validation)
         self.max_mel_length = 192
 
+        self.max_length = max_length
         self.min_length = min_length
         with open(OOD_data, "r", encoding="utf-8") as f:
             tl = f.readlines()
@@ -74,45 +76,59 @@ class FilePathDataset(torch.utils.data.Dataset):
         return len(self.data_list)
 
     def __getitem__(self, idx):
-        data = self.data_list[idx]
-        path = data[0]
+        while True:
+            data = self.data_list[idx]
+            path = data[0]
+            
+            wave, text_tensor, speaker_id = self._load_tensor(data)
+            
+            # # If the data was skipped due to length, try the next item
+            # if text_tensor is None:
+            #     idx = (idx + 1) % len(self.data_list)
+            #     continue
 
-        wave, text_tensor, speaker_id = self._load_tensor(data)
+            mel_tensor = preprocess(wave, self.to_melspec).squeeze()
 
-        mel_tensor = preprocess(wave, self.to_melspec).squeeze()
+            acoustic_feature = mel_tensor.squeeze()
+            length_feature = acoustic_feature.size(1)
+            acoustic_feature = acoustic_feature[:, : (length_feature - length_feature % 2)]
 
-        acoustic_feature = mel_tensor.squeeze()
-        length_feature = acoustic_feature.size(1)
-        acoustic_feature = acoustic_feature[:, : (length_feature - length_feature % 2)]
+            # get reference sample
+            ref_data = (self.df[self.df[2] == str(speaker_id)]).sample(n=1).iloc[0].tolist()
+            ref_mel_tensor, ref_label = self._load_data(ref_data[:3])
 
-        # get reference sample
-        ref_data = (self.df[self.df[2] == str(speaker_id)]).sample(n=1).iloc[0].tolist()
-        ref_mel_tensor, ref_label = self._load_data(ref_data[:3])
+            # get OOD text
 
-        # get OOD text
+            ps = ""
 
-        ps = ""
+            while True:
+                rand_idx = np.random.randint(0, len(self.ptexts) - 1)
+                ps = self.ptexts[rand_idx]
+                
+                # Skip if text is too short
+                if len(ps) < self.min_length:
+                    continue
+                    
+                text = self.text_cleaner(ps)
+                # Skip if cleaned text is too long
+                if len(text) > self.max_length - 2:  # -2 to account for start/end tokens
+                    continue
+                    
+                text.insert(0, 0)
+                text.append(0)
+                ref_text = torch.LongTensor(text)
+                break
 
-        while len(ps) < self.min_length:
-            rand_idx = np.random.randint(0, len(self.ptexts) - 1)
-            ps = self.ptexts[rand_idx]
-
-            text = self.text_cleaner(ps)
-            text.insert(0, 0)
-            text.append(0)
-
-            ref_text = torch.LongTensor(text)
-
-        return (
-            speaker_id,
-            acoustic_feature,
-            text_tensor,
-            ref_text,
-            ref_mel_tensor,
-            ref_label,
-            path,
-            wave,
-        )
+            return (
+                speaker_id,
+                acoustic_feature,
+                text_tensor,
+                ref_text,
+                ref_mel_tensor,
+                ref_label,
+                path,
+                wave,
+            )
 
     def _load_tensor(self, data):
         wave_path, text, speaker_id = data
