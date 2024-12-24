@@ -28,9 +28,9 @@ SAMPLING_RATE = 24000
 class StyleTTS2Synthesizer:
     def __init__(self, config_path, checkpoint_path):
         self.device = torch.device(
-            "cuda:1"
+            "cuda:0"
             if torch.cuda.is_available() and torch.cuda.device_count() > 1
-            else "cuda:0" if torch.cuda.is_available() else "cpu"
+            else "cuda:1" if torch.cuda.is_available() else "cpu"
         )
         self.config = yaml.safe_load(open(config_path))
         self.model_params = recursive_munch(self.config["model_params"])
@@ -234,3 +234,88 @@ class StyleTTS2Synthesizer:
             print(f"Error during synthesis: {e}")
 
         return wav, ps
+    
+    
+    def s2s(
+        self,
+        text,
+        ref_s,
+        target_s,
+        language,
+        alpha=0.8,
+        beta=0.1,
+        diffusion_steps=10,
+        embedding_scale=1,
+        phonemes=False,
+    ):
+        global_phonemizer = phonemizer.backend.EspeakBackend(
+            language=language, preserve_punctuation=True, with_stress=True
+        )
+
+        text = text.strip()
+        if phonemes:
+            ps = text
+        else:
+            ps = global_phonemizer.phonemize([text])[0]
+        print(f"ps: {ps}")
+        tokens = self.textcleaner(ps)
+        tokens.insert(0, 0)
+        tokens = torch.LongTensor(tokens).to(self.device).unsqueeze(0)
+
+        with torch.no_grad():
+            input_lengths = torch.LongTensor([tokens.shape[-1]]).to(self.device)
+            text_mask = self.length_to_mask(input_lengths).to(self.device)
+
+            t_en = self.model.text_encoder(tokens, input_lengths, text_mask)
+            bert_dur = self.model.bert(tokens, attention_mask=(~text_mask).int())
+            d_en = self.model.bert_encoder(bert_dur).transpose(-1, -2)
+
+            s_pred = self.sampler(
+                noise=torch.randn((1, 256)).unsqueeze(1).to(self.device),
+                embedding=bert_dur,
+                embedding_scale=embedding_scale,
+                features=target_s,  # reference from the same speaker as the embedding
+                num_steps=diffusion_steps,
+            ).squeeze(1)
+
+            ref = s_pred[:, :128]
+            s = s_pred[:, 128:]
+            
+            # Ref depebds on target_styke
+            ref = alpha * ref + (1 - alpha) * ref_s[:, :128]
+            s = beta * s + (1 - beta) * ref_s[:, 128:]
+
+            d = self.model.predictor.text_encoder(d_en, s, input_lengths, text_mask)
+
+            x, _ = self.model.predictor.lstm(d)
+            duration = self.model.predictor.duration_proj(x)
+
+            duration = torch.sigmoid(duration).sum(axis=-1)
+            pred_dur = torch.round(duration.squeeze()).clamp(min=1)
+
+            pred_aln_trg = torch.zeros(input_lengths, int(pred_dur.sum().data))
+            c_frame = 0
+            for i in range(pred_aln_trg.size(0)):
+                pred_aln_trg[i, c_frame : c_frame + int(pred_dur[i].data)] = 1
+                c_frame += int(pred_dur[i].data)
+
+            # encode prosody
+            en = d.transpose(-1, -2) @ pred_aln_trg.unsqueeze(0).to(self.device)
+            if self.model_params.decoder.type == "hifigan":
+                asr_new = torch.zeros_like(en)
+                asr_new[:, :, 0] = en[:, :, 0]
+                asr_new[:, :, 1:] = en[:, :, 0:-1]
+                en = asr_new
+
+            F0_pred, N_pred = self.model.predictor.F0Ntrain(en, s)
+
+            asr = t_en @ pred_aln_trg.unsqueeze(0).to(self.device)
+            if self.model_params.decoder.type == "hifigan":
+                asr_new = torch.zeros_like(asr)
+                asr_new[:, :, 0] = asr[:, :, 0]
+                asr_new[:, :, 1:] = asr[:, :, 0:-1]
+                asr = asr_new
+
+            out = self.model.decoder(asr, F0_pred, N_pred, ref.squeeze().unsqueeze(0))
+
+        return out.squeeze().cpu().numpy()[..., :-50]

@@ -1,0 +1,14 @@
+{
+    "speakers": [
+        {
+            "name": "althaf",
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "alpha": 0.5,
+            "beta": 0.7,
+            "embedding_scale": 2,
+            "speaker_id": "0",
+            "language": "id"
+        }
+    ]
+}

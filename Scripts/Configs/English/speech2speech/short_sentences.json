@@ -1,0 +1,15 @@
+{
+    "speakers": [
+        {
+            "name": "",
+            "audio_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/en-Multi-Short-Sentences-24kHz/wavs",
+            "reference_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/StyleTTS2/Demo/id-ID-Althaf/concatenated_audio.wav",
+            "alpha": 0.7,
+            "beta": 0.3,
+            "embedding_scale": 1,
+            "dataset_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/en-Multi-Short-Sentences-24kHz",
+            "text_column": "transcript",
+            "audio_column": "audio_name"
+        }
+    ]
+}

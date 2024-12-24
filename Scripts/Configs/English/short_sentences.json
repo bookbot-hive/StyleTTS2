@@ -1,0 +1,37 @@
+{
+    "speakers": [
+        {
+            "name": "en-US-Madison",
+            "mode": "metadata",
+            "dataset_path": "../madison-althaf-exclamations",
+            "reference_path": "Scripts/Audio/madison_althaf_single_word_reference.mp3",
+            "alpha": 0.7,
+            "beta": 0.9,
+            "embedding_scale": 1,
+            "speaker_id": "0",
+            "language": "en-us"
+        },
+        {
+            "name": "en-UK-Thalia",
+            "mode": "metadata",
+            "dataset_path": "../thalia-althaf-exclamations",
+            "reference_path": "Scripts/Audio/thalia_althaf_single_word_reference.mp3",
+            "alpha": 0.7,
+            "beta": 0.9,
+            "embedding_scale": 1,
+            "speaker_id": "1",
+            "language": "en-gb"
+        },
+        {
+            "name": "en-AU-Zak",
+            "mode": "metadata",
+            "dataset_path": "../zak-althaf-exclamations",
+            "reference_path": "Scripts/Audio/zak_althaf_single_word_reference.mp3",
+            "alpha": 0.7,
+            "beta": 0.9,
+            "embedding_scale": 1,
+            "speaker_id": "2",
+            "language": "en-gb"
+        }
+    ]
+}

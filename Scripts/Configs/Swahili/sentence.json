@@ -1,0 +1,14 @@
+{
+    "speakers": [
+        {
+            "name": "sw_victoria",
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "alpha": 0.7,
+            "beta": 0.5,
+            "embedding_scale": 1,
+            "speaker_id": "0",
+            "language": "sw"
+        }
+    ]
+}

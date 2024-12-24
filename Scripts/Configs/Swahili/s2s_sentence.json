@@ -1,0 +1,28 @@
+{
+    "speakers": [
+        {
+            "name": "",
+            "dataset_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/OpenBible_Swahili_Althaf",
+            "target_audio": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/OpenBible_Swahili_Althaf/MAT_clean/wavs/MAT_006_018_smooth.wav",
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "alpha": 0.1,
+            "beta": 0.4,
+            "embedding_scale": 1,
+            "speaker_id": "0",
+            "language": "sw"
+        },
+        {
+            "name": "",
+            "dataset_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/sw-TZ-Althaf-Syllables",
+            "target_audio": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/OpenBible_Swahili_Althaf/MAT_clean/wavs/MAT_006_018_smooth.wav",
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "alpha": 0.1,
+            "beta": 0.4,
+            "embedding_scale": 1,
+            "speaker_id": "0",
+            "language": "sw"
+        }
+    ]
+}

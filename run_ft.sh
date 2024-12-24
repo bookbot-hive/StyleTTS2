@@ -1,0 +1,1 @@
+python train_finetune.py --config_path Configs/config_ft_sw_bible_althaf.yml

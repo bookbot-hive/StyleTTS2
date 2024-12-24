@@ -1,0 +1,40 @@
+{
+    "speakers": [
+        {
+            "name": "en-AU-Zak",
+            "mode": "metadata",
+            "dataset_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/eleven_labs/audio/zak-althaf-single-words",
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "alpha": 0.3,
+            "beta": 0.1,
+            "embedding_scale": 1,
+            "speaker_id": "2",
+            "language": "en-gb"
+        },
+        {
+            "name": "en-UK-Thalia",
+            "mode": "metadata",
+            "dataset_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/eleven_labs/audio/thalia-althaf-single-words",
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "alpha": 0.3,
+            "beta": 0.1,
+            "embedding_scale": 1,
+            "speaker_id": "1",
+            "language": "en-gb"
+        },
+        {
+            "name": "en-US-Madison",
+            "mode": "metadata",
+            "dataset_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/eleven_labs/audio/madison-althaf-single-words",
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "alpha": 0.3,
+            "beta": 0.1,
+            "embedding_scale": 1,
+            "speaker_id": "0",
+            "language": "en-us"
+        }
+    ]
+}
