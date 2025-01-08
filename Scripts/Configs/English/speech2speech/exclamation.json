@@ -1,0 +1,41 @@
+
+{
+    "speakers": [
+        {
+            "name": "madison-althaf-exclamations",
+            "dataset_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/eleven_labs/audio/madison-althaf-exclamations-modified/metadata.csv",
+            "root_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/eleven_labs/audio/madison-althaf-exclamations-modified/wavs",
+            "reference_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/StyleTTS2/Scripts/Audio/madison_althaf_single_word_reference.mp3",
+            "alpha": 0.6,
+            "beta": 0.2,
+            "embedding_scale": 1,
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "language": "en-us"
+        },
+        {
+            "name": "thalia-althaf-exclamations",
+            "dataset_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/eleven_labs/audio/thalia-althaf-exclamations-modified/metadata.csv",
+            "root_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/eleven_labs/audio/thalia-althaf-exclamations-modified/wavs",
+            "reference_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/StyleTTS2/Scripts/Audio/thalia_althaf_single_word_reference.mp3",
+            "alpha": 0.6,
+            "beta": 0.2,
+            "embedding_scale": 1,
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "language": "en-gb"
+        },
+        {
+            "name": "zak-althaf-exclamations",
+            "dataset_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/eleven_labs/audio/zak-althaf-exclamations-modified/metadata.csv",
+            "root_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/eleven_labs/audio/zak-althaf-exclamations-modified/wavs",
+            "reference_path": "/home/s44504/3b01c699-3670-469b-801f-13880b9cac56/StyleTTS2/Scripts/Audio/zak_althaf_single_word_reference.mp3",
+            "alpha": 0.6,
+            "beta": 0.2,
+            "embedding_scale": 1,
+            "text_column": "text",
+            "audio_column": "path_to_audio",
+            "language": "en-au"
+        }
+    ]
+}
